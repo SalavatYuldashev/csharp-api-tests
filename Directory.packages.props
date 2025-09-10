@@ -1,0 +1,23 @@
+﻿<Project>
+  <ItemGroup>
+    <PackageVersion Include="coverlet.collector" Version="6.0.4" />
+    <PackageVersion Include="Docker.DotNet" Version="3.125.15" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="9.0.9" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="9.0.9" />
+    <PackageVersion Include="Polly" Version="8.6.3" />
+    <PackageVersion Include="RestSharp" Version="112.1.0" />
+    <PackageVersion Include="Serilog" Version="4.3.0" />
+    <PackageVersion Include="Serilog.Extensions" Version="8.1.0" />
+    <PackageVersion Include="Serilog.Settings.Configuration" Version="9.0.1-dev-02317" />
+    <PackageVersion Include="Serilog.Sinks.Console" Version="6.0.1-dev-00953" />
+    <PackageVersion Include="Serilog.Sinks.File" Version="7.0.0" />
+    <PackageVersion Include="NUnit" Version="4.4.0" />
+    <PackageVersion Include="NUnit3TestAdapter" Version="5.1.0" />
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration" Version="9.0.8" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration.Json" Version="9.0.8" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration.Binder" Version="9.0.8" />
+    <PackageVersion Include="SQLite" Version="3.13.0" />
+    <PackageVersion Include="WireMock.Net" Version="1.12.0" />
+  </ItemGroup>
+</Project>
